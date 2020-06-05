@@ -1,3 +1,3 @@
 # SDCourseWork
 
-Labs: Lens % Lighting, Compact Vision system, Moving Object Imaging, Polarization Imaging, IR Imaging
+Labs: Lens & Lighting, Compact Vision system, Moving Object Imaging, Polarization Imaging, IR Imaging
